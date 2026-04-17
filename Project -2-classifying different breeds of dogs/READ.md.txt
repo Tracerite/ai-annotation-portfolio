@@ -1,0 +1,1 @@
+Performed image classification on a dataset of dogs by labeling different breeds with accuracy and consistency.

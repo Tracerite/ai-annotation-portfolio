@@ -1,0 +1,1 @@
+Conducted image classification by categorizing images into cats and fishes, ensuring clear distinctions and reliable labeling.

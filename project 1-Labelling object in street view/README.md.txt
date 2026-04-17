@@ -1,0 +1,1 @@
+Performed object detection on street-view images by labeling pedestrians, cars, and motorcycles using bounding boxes, with attention to overlapping objects and partial visibility.
